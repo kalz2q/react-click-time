@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-click-time/static/css/main.073c9b0a.css",
+    "main.js": "/react-click-time/static/js/main.1831ded2.js",
+    "static/js/787.00361701.chunk.js": "/react-click-time/static/js/787.00361701.chunk.js",
+    "index.html": "/react-click-time/index.html",
+    "main.073c9b0a.css.map": "/react-click-time/static/css/main.073c9b0a.css.map",
+    "main.1831ded2.js.map": "/react-click-time/static/js/main.1831ded2.js.map",
+    "787.00361701.chunk.js.map": "/react-click-time/static/js/787.00361701.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1831ded2.js"
+  ]
+}
